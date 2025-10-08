@@ -1,6 +1,6 @@
 # 🏙️ Zenith Properties
 
-Zenith Properties is a modern real estate web platform designed to make finding, renting, or buying properties effortless. 
+Zenith Properties is a simple, modern real estate web platform designed to make finding, renting, or buying properties effortless. 
 It provides a sleek and user-friendly interface where users can explore listings, connect with agents, and manage their property needs in one place.
 
 ---
@@ -18,3 +18,5 @@ It provides a sleek and user-friendly interface where users can explore listings
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
+
+NB: Static Frontend Only
