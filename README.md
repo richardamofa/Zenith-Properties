@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-"# Zenith-Properties" 
-=======
 # 🏙️ Zenith Properties
 
 Zenith Properties is a simple, modern real estate web platform designed to make finding, renting, or buying properties effortless. 
@@ -23,4 +20,4 @@ It provides a sleek and user-friendly interface where users can explore listings
 - **Frontend:** HTML, CSS, JavaScript  
 
 NB: Static Frontend Only
->>>>>>> 0ac2028fbd35edbe5f63ab8540248d0a788b0b3f
+
